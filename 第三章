@@ -1,0 +1,84 @@
+In [2]:
+a=3
+b=4
+if a <= b:
+    print("(如果)b是比較大的數<=小於等於")
+else:
+    print("(其他)a是比較大的數")
+b是比較大的數
+In [5]:
+sum=0
+for count in range(1, 11,1):
+    sum += count
+print(sum)
+55
+In [1]:
+sum = 0 #儲存加總結果
+for count in range(11): #數值1~10
+   sum += count #將數值累加
+print('1+2+3+...+10累加結果', sum)
+1+2+3+...+10累加結果 55
+In [6]:
+mylist="for statement"
+for word in mylist:
+    print(word)
+else:
+    print("end list")
+f
+o
+r
+ 
+s
+t
+a
+t
+e
+m
+e
+n
+t
+end list
+In [4]:
+#雞兔同籠。若共有35個頭，94隻腳，問共有幾隻雞?幾隻兔?
+for chicken in range(0, 35):
+    rabbit=35-chicken
+    if 2*chicken+4*rabbit==94:
+        print("雞有",chicken,"隻,兔子有",rabbit,"隻")
+        break
+else:
+    print("無解")
+雞有 23 隻,兔子有 12 隻
+In [6]:
+#while迴圈
+sum = 0 #儲存加總結果
+count = 1 #計數器
+while count <= 10:  
+   sum += count #將數值累加
+   count += 1
+print("1+2+3+...+ 10 累加結果", sum) #輸出累加結果
+1+2+3+...+ 10 累加結果 55
+In [11]:
+#本金10000元，年利率1.9%，請問多久銀行存款會加倍
+x=10000
+years=0
+while x <= 20000:
+    years+=1
+    x=x*1.019
+print(str(years),"年以後，存款加倍，為",int(x),"元")
+37 年以後，存款加倍，為 20065 元
+In [20]:
+#猜數字 
+#迴圈為真
+number=11
+while True:
+    guess = int(input('輸入1~100之間的數字 --> '))
+    if guess == number:
+        print('你猜對了，數字是：', number)
+        break
+    else:
+        print("答錯了")
+輸入1~100之間的數字 --> 1
+答錯了
+輸入1~100之間的數字 --> 11
+你猜對了，數字是： 11
+In [ ]:

@@ -1,0 +1,521 @@
+In [1]:
+a=3
+b=5
+a+b
+Out[1]:
+8
+In [6]:
+import requests
+a=requests.get("https://shopee.tw/")
+print(a.text)
+ï»¿<!DOCTYPE html>
+<!--
+Template Name:ææ°ç§æå¤§å­¸
+Author: <a href="http://www.os-templates.com/">OS Templates</a>
+Author URI: http://www.os-templates.com/
+Licence: Free to use under our free template licence terms
+Licence URI: http://www.os-templates.com/template-terms
+-->
+<html>
+<head>
+<meta name="google-site-verification" content="qyA7Hl8GH4fSuN63aOHw_YOR_OiuioN_OJBIsW0AJTM" />
+<title>ææ°ç§æå¤§å­¸</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name= " Accessible_website " content= " æ¬ç¶²ç«ééç¬¬(1)åªåç­ç´ç¡éç¤ç¶²é æª¢æ¸¬ " >
+<link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+<script type="text/javascript" src="layout/scripts/away.js"></script>
+<script charset="UTF-8" type="text/javascript" src="http://webs.must.edu.tw/pagecount/showpage.php?page=must_school&show=no"></script>
+<style type=text/css> 
+<!--
+/*å¨é¨è¨­å®å­é«*/
+ body { font-family: verdana, Times New Roman, å¾®è»æ­£é»é«, æ°ç´°æé«; }
+//-->
+</style>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-131310035-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-131310035-1');
+</script>
+
+</head>
+<body id="top">
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ -->
+<div class="wrapper row1">
+
+  <div id="topbar" class="clear"> 
+    <!-- ################################################################################################ -->
+    <nav>
+      <ul><a href="#_top" accesskey="U" title="ä¸æ¹é¸å®å">:::</a>
+        <li><a href="http://www.must.edu.tw/index.html">é¦é </a></li>
+	<li><a href="http://webc1.must.edu.tw/jtmust062/index.php/news/mustepaper">é»å­å ±</a></li>
+        <li><a href="http://www.must.edu.tw/about/contact.html">è¯çµ¡æå</a></li>
+        <li><a href="http://fg.must.edu.tw/">English</a></li>
+        <li><a href="mailto://csc@must.edu.tw;president@must.edu.tw;secretariat.must@must.edu.tw;chen083487@must.edu.tw ">æ ¡é·ä¿¡ç®±</a></li>
+        <li><a href="mailto://csc@must.edu.tw">è£äºé·ä¿¡ç®±</a></li>
+	<li><a href="http://www.must.edu.tw/about/webmap.html">ç¶²ç«å°è¦½</a></li>
+	<li><a href="http://www.must.edu.tw/seach.html">ç«å§æå°</a></li>
+      
+      </ul>
+    </nav>
+    <!-- ################################################################################################ --> 
+  </div>
+</div>
+<!-- ################################################################################################ --> 
+
+<!-- å¬éåºççµyahooè¡é·ç¨å¼ç¢¼ -->
+<script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10001499389408','properties':{'pixelId':'440351'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script>
+
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ -->
+<div class="wrapper row1">
+  <header id="header" class="clear"> 
+    <!-- ################################################################################################ -->
+    <div id="logo" class="fl_left">
+      <a href="http://www.must.edu.tw/index.html" title="åé¦é "><img src="images/Q/newlogo-3.png" alt="å­¸æ ¡ç¶²é logoå"></a>
+      <!--<h1><a href="http://www.must.edu.tw/">ææ°ç§æå¤§å­¸</a></h1> -->
+      <!--<p  style="color:#FFFFFF;">Minghsin University of Science and Technology</p> -->
+    </div>
+    <div class="fl_right">
+
+    <div id="headerLink">
+    <!-- <form class="clear" method="post" action="chinese/16_search/search.aspx" enctype="multipart/form-data">
+        <fieldset>
+          <legend>Search:</legend>
+          <input name="searchkey" type="text" value="" placeholder="å¨ç«æå°">
+          <button class="javascript:fSearch_submit(document.fsearch);" type="submit" title="Search">
+		  <function Tomaincontent(item) 
+{ 
+  for (var i=1; i<= maincontent; i++){
+    main_content = document.getElementById("main_content_"+ i);
+	label = document.getElementById("label_"+ i);
+    main_content.style.display = "none";
+	label.className = "home_label"+i+"B"; 
+	//label.style.background = eval("d"+i); 
+  }
+    main_content = document.getElementById("main_content_"+ item);
+	label = document.getElementById("label_"+ item);
+    main_content.style.display = "block";
+	label.className = "home_label"+item; 
+	//label.style.background = eval("u"+item); 
+} 
+function fSearch_submit(obj){
+	if(obj.searchkey.value=="")
+		alert("è«è¼¸å¥ééµå­");
+	else
+		obj.submit();}>
+		<img src="images/Sh1.png" alt="space"><em>go</em></button>
+        </fieldset>
+      </form> -->
+
+    </div>
+    <!-- ################################################################################################ --> 
+  </header>
+</div>
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ -->
+<div class="wrapper row2">
+
+  <div class="rounded">
+    <nav id="mainav" class="clear"> 
+      <!-- ################################################################################################ -->
+      <ul class="clear">
+<a href="#_menu" accesskey="M" title="æ©«ååè½é£çµå-ææè¯çµçä»¥å¦éè¦çªçºä¸»">:::</a>
+        <li class="active"><a href="http://www.must.edu.tw/index.html">é¦é </a></li>
+        <li><a class="drop" href="http://www.must.edu.tw/about/aboutmust.html">éæ¼ææ°</a>
+          <ul>
+            <li><a href="about/about-4.html " target="_blank">æ ¡å²</a></li>
+            <li><a href="about/about-2.html " target="_blank">æ ¡è¨</a></li>
+            <li onclick="ga('send', 'event', 'é¦é ', 'click','æ ¡æ­');"><a href="about/about-3.html " target="_blank">æ ¡æ­</a></li>
+            <li><a href="about/about-16.html" target="_blank">åµæ ¡åè</a></li>
+            <li><a href="http://webc1.must.edu.tw/mustj001" target="_blank">è£äºæ</a></li>
+            <li><a href="http://webc2.must.edu.tw/jtmust002/" target="_blank">æ ¡é·</a></li>
+            <li><a href="http://www.must.edu.tw/ochart/1070411.pdf" target="_blank" title="æ¬æ ¡çµç¹ä»¥æ ¡é·é å°4é¢1ä¸­å¿è16åä¸ç´å®ä½å±åæ¨åææ°æ ¡åï¼è©³ç´°çµç¹çµæè«åèè¡æ¿å®ä½èå­¸è¡å®ä½ä¹é é¢">å­¸æ ¡çµç¹ç³»çµ±å(PDFæ ¼å¼)</a></li>
+            <li><a href="about/about-7.html" target="_blank">æ²»æ ¡çå¿µ</a></li>
+            <li><a href="http://www.must.edu.tw/about/mustmap.html" target="_blank">å¦ä½å°ææ°</a></li>
+	    <li><a href="http://webc1.must.edu.tw/jtmust073/index.php/2017-01-20-03-50-06/2017-01-23-06-53-36" target="_blank">æ ¡å§å¹³é¢å</a></li>
+            <li><a href="about/about-9.html" target="_blank">æ ¡åç¼å±éé»</a></li>
+            <li><a href="about/about-18.html" target="_blank">å­¸æ ¡å®ä½ãä½¿å½ãé¡æ¯åç¼å±ç®æ¨</a></li>
+          </ul>
+        </li>
+      <li><a class="drop" href="http://www.must.edu.tw/about/acade.html">å­¸è¡å®ä½</a>
+          <ul>
+            
+            <li><a class="drop" href="http://webc1.must.edu.tw/jtmust058" target="_blank">å·¥å­¸é¢</a><ul>
+                <li><a href="http://meu.must.edu.tw/index.html" target="_blank">æ©æ¢°å·¥ç¨ç³»(å­¸å£«ç­)æ¨ç²¾å¯æ©é»å·¥ç¨ç ç©¶æ(ç¢©å£«ç­)</a></li>
+                <li><a href="http://webc2.must.edu.tw/jtmust005" target="_blank">é»æ©å·¥ç¨ç³»(å­¸å£«ç­ãç¢©å£«ç­)</a></li>
+                <li><a href="http://eed.must.edu.tw/" target="_blank">é»å­å·¥ç¨ç³»(å­¸å£«ç­ãç¢©å£«ç­)</a></li>
+                <li><a href="http://webc2.must.edu.tw/jtmust012" target="_blank">åé»ç³»çµ±å·¥ç¨ç³»(å­¸å£«ç­ãç¢©å£«ç­)</a></li>
+                <li><a href="http://webc1.must.edu.tw/jtmust074" target="_blank">è³è¨å·¥ç¨ç³»(å­¸å£«ç­)</a></li>
+                <li><a href="http://webc2.must.edu.tw/jtmust020/" target="_blank">åå­¸å·¥ç¨èææç§æç³»(å­¸å£«ç­ãç¢©å£«ç­)</a></li>
+                <li><a href="http://webc2.must.edu.tw/jtmust004/" target="_blank">åæ¨å·¥ç¨èç°å¢è³æºç®¡çç³»(å­¸å£«ç­ãç¢©å£«ç­)</a></li>
+                <li><a href="http://webc1.must.edu.tw/jtmust048/" target="_blank">åå¦åæç¨å­¸å£«å­¸ä½å­¸ç¨</a></li>
+              </ul>
+            </li>
+            
+            <li><a class="drop" href="http://webc2.must.edu.tw/jtmust015" target="_blank">ç®¡çå­¸é¢</a><ul>
+                <li><a href="http://webc2.must.edu.tw/jtmust028" target="_blank">å·¥æ¥­å·¥ç¨èç®¡çç³»(å­¸å£«ç­ãç¢©å£«ç­)</a></li>
+                <li><a href="http://www.im.must.edu.tw/im/" target="_blank">è³è¨ç®¡çç³»(å­¸å£«ç­ãç¢©å£«ç­)</a></li>
+                <li><a href="http://webc2.must.edu.tw/jtmust006" target="_blank">ä¼æ¥­ç®¡çç³»(å­¸å£«ç­)</a></li>
+                <li><a href="http://webc2.must.edu.tw/jtmust021" target="_blank">è²¡åéèç³»(å­¸å£«ç­)</a></li>
+                <li><a href="http://webc2.must.edu.tw/jtmust022" target="_blank">ç®¡çç ç©¶æ(ç¢©å£«ç­)</a></li>
+                <li><a href="http://webc2.must.edu.tw/jtmust018" target="_blank">è¡é·èæµéç®¡çç³»(å­¸å£«ç­)</a></li>
+                <li><a href="http://webc2.must.edu.tw/jtmust013/" target="_blank">å¨çéç±ç®¡çä¸­å¿</a></li>
+                <li><a href="http://webc1.must.edu.tw/jtmust079" target="_blank">åµæ¥­èè¡é·å­¸å£«å­¸ä½å­¸ç¨</a></li>
+                <li><a href="http://www.im.must.edu.tw/cloud/" target="_blank">é²ç«¯ç§æèååæç¨å­¸å£«å­¸ä½å­¸ç¨</a></li>
+              </ul>
+            </li>
+            
+            <li><a class="drop" href="http://webc1.must.edu.tw/jtmust043" target="_blank">æåç¢æ¥­å­¸é¢</a><ul>
+                <li><a href="http://webc2.must.edu.tw/jtmust019" target="_blank">æé¤¨äºæ¥­ç®¡çç³»(å­¸å£«ç­)</a></li>
+                <li><a href="http://child.must.edu.tw/" target="_blank">å¹¼åä¿è²ç³»(å­¸å£«ç­)</a></li>
+                <li><a href="http://webc2.must.edu.tw/jtmust101" target="_blank">ä¼éäºæ¥­ç®¡çç³»(å­¸å£«ç­)</a></li>
+                <li><a href="http://webc2.must.edu.tw/jtmust010/" target="_blank">èäººæåäºæ¥­ç®¡çç³»(å­¸å£«ç­)</a></li>
+                <li><a href="http://webc1.must.edu.tw/jtmust044" target="_blank">æåç¢æ¥­æ¨ç®¡çç ç©¶æ(ç¢©å£«ç­)</a></li>
+                <li><a href="http://webc2.must.edu.tw/jtmust011"  target="_blank">å¸«è³å¹è²ä¸­å¿</a></li>
+                <li><a href="https://www.must.edu.tw/chinese/11_subsite_science/index.aspx?UnitID=30504" target="_blank">æåè§åç¢æ¥­å­¸å£«å­¸ä½å­¸ç¨</a></li>
+              </ul>
+            </li>
+            
+           <li><a class="drop" href="http://webc2.must.edu.tw/jtmust003" target="_blank">äººæç¤¾æå­¸é¢</a><ul>
+                <li><a href="http://webc1.must.edu.tw/jtmust067/" target="_blank" >æç¨å¤èªç³»(å­¸å£«ç­)</a></li>
+                <li><a href="http://webc1.must.edu.tw/mustj004"  target="_blank">éåç®¡çç³»(å­¸å£«ç­)</a></li>
+                <li><a href="http://webc2.must.edu.tw/jtmust008" target="_blank">èæä¸­å¿</a></li>
+		<li><a href="http://webc1.must.edu.tw/jtmust041 " target="_blank">è¯èªææå­¸ä¸­å¿</a></li>
+		<li><a href="http://webc1.must.edu.tw/mustj006" target="_blank" >å¤åæç¾¤æåç ç©¶ä¸­å¿</a></li>
+		<li><a href="http://webc2.must.edu.tw/jtmust102/" target="_blank" >å¤åªé«èéæ²ç¼å±ç³»</a></li>
+
+              
+
+              </ul>
+            </li>
+            
+             <li><a class="drop" href="http://webc2.must.edu.tw/jtmust014" target="_blank">éè­æè²ä¸­å¿</a><ul>
+                <li><a href="http://webc1.must.edu.tw/jtmust081"  target="_blank">äººæèè¡æå­¸ä¸­å¿</a></li>
+                <li><a href="http://webc1.must.edu.tw/jtmust082"  target="_blank">ç¤¾æç§å­¸æå­¸ä¸­å¿</a></li>
+                <li><a href="http://webc1.must.edu.tw/jtmust083" target="_blank">èªç¶ç§å­¸æå­¸ä¸­å¿</a></li>
+               <li><a href="http://webc1.must.edu.tw/jtmust084" target="_blank" >èªè¨æå­¸ä¸­å¿</a></li>
+              </ul>
+            </li>
+            
+           <li><a class="drop" href="#">å¶ä»å®ä½</a> <ul>
+                
+                <li><a href="https://www.must.edu.tw/chinese/11_subsite_science/index.aspx?UnitID=Z0033"  target="_blank">ææ°ç§å¤§æå¸«æ</a></li>
+              </ul>
+            </li> 
+            
+          </ul>
+        </li>
+        
+        
+           <li><a class="drop" href="http://www.must.edu.tw/about/admin.html" target="_blank">è¡æ¿å®ä½</a>
+               <ul>
+                <li><a href="http://webc1.must.edu.tw/mustj002"  target="_blank">ç¨½æ ¸å®¤</a></li>
+
+            <li><a class="drop" href="http://webc2.must.edu.tw/jtmust024"  target="_blank">ç§æ¸å®¤</a><ul>
+                
+                <!--<li><a href="http://webc1.must.edu.tw/jtmust062" target="_blank">å¬éåºççµ</a></li>-->
+                <li><a href="http://webc1.must.edu.tw/jtmust060 " target="_blank">æ ¡åæåä¸­å¿</a></li>
+                
+                <!--<li><a href="http://admin.must.edu.tw/index.aspx?UnitID=20208" target="_blank">å©å²¸äº¤æµä¸­å¿</a></li>-->
+		<!--<li><a href="http://admin.must.edu.tw/index.aspx?UnitID=20202" target="_blank">åéäº¤æµä¸­å¿</a></li>-->		
+              </ul>
+            </li>
+			
+			<li><a href="http://webc1.must.edu.tw/jtmust062" target="_blank">å¬å±éä¿äºæ¥­å®¤</a></li>
+			
+            <li><a href="http://webc1.must.edu.tw/jtmust077" target="_blank">æ ¡åç ç©¶è¾¦å¬å®¤</a></li>
+            
+            <li><a class="drop" href="http://webc1.must.edu.tw/jtmust056 " target="_blank">åéæ¨å©å²¸äºåè</a><ul>
+                <li><a href="http://webc2.must.edu.tw/jtmust033" target="_blank">åéæè²èäº¤æµä¸­å¿</a></li>
+                <li><a href="http://webc2.must.edu.tw/jtmust032" target="_blank">å©å²¸æè²èäº¤æµä¸­å¿</a></li>
+                <!--<li><a href="http://webc2.must.edu.tw/jtmust027 " target="_blank">åæ¸¯æ¾³æè²èäº¤æµä¸­å¿</a></li>-->
+                <li><a href="http://webc2.must.edu.tw/jtmust031" target="_blank">å¢å¤çè¼å°èæåä¸­å¿</a></li>
+                
+              </ul>
+            </li>
+
+             <li><a class="drop" href="http://webc1.must.edu.tw/jtmust066/" target="_blank">æåè</a><ul>
+                <li><a href="http://webc1.must.edu.tw/jtmust057" target="_blank">ç¶åæ¥­åçµ</a></li>
+                <li><a href="http://webc2.must.edu.tw/jtmust029" target="_blank">èª²åçµ</a></li>
+                <li><a href="http://webc2.must.edu.tw/jtmust026" target="_blank">è¨»åçµ</a></li>
+                <li><a href="http://webc2.must.edu.tw/jtmust025" target="_blank">æå­¸ç¼å±ä¸­å¿</a></li>
+              </ul>
+            </li>
+            
+             <li><a class="drop" href="http://webc1.must.edu.tw/jtmust064" target="_blank">å­¸çäºåè</a><ul>
+                <li><a href="http://webc2.must.edu.tw/jtmust037" target="_blank">çæ´»è¼å°çµ</a></li>
+                <li><a href="http://webc1.must.edu.tw/jtmust063" target="_blank">èª²å¤æ´»åæå°çµ</a></li>
+                <li><a href="http://webc1.must.edu.tw/jtmust053" target="_blank">è¡çä¿å¥çµ</a></li>
+                <li><a href="http://webc1.must.edu.tw/jtmust055" target="_blank">é«è²å®¤</a></li>
+                <li><a href="http://webc1.must.edu.tw/jtmust070" target="_blank">ä½å®¿æåçµ</a></li>
+                <li><a href="http://webc1.must.edu.tw/jtmust042" target="_blank">æåå­¸ç¿ä¸­å¿</a></li>
+                <li><a href="http://webc1.must.edu.tw/jtmust069" target="_blank">è«®åè¼å°æ¨è·æ¶¯ç¼å±ä¸­å¿</a></li>
+                <li><a href="http://webc2.must.edu.tw/jtmust030" target="_blank">è«®åè¼å°æ¨è·æ¶¯ç¼å±ä¸­å¿[è³æºæå®¤]</a></li>
+              </ul>
+            </li>
+            
+            
+             <li><a class="drop" href="http://webc1.must.edu.tw/jtmust072" target="_blank">ç¸½åè</a><ul>
+                <li><a href="http://webc1.must.edu.tw/jtmust065" target="_blank">ä¿ç®¡çµ</a></li>
+                <li><a href="http://webc1.must.edu.tw/jtmust073" target="_blank">äºåçµ</a></li>
+                <li><a href="http://webc1.must.edu.tw/jtmust052" target="_blank">çç¹çµ</a></li>
+                <li><a href="http://webc1.must.edu.tw/jtmust050" target="_blank">æ¡è³¼çµ</a></li>
+                <li><a href="http://webc1.must.edu.tw/jtmust075" target="_blank">ææ¸çµ</a></li>
+                <li><a href="http://webc1.must.edu.tw/jtmust049" target="_blank">åºç´çµ</a></li>
+              </ul>
+            </li>
+            
+             <li><a class="drop" href="http://webc1.must.edu.tw/jtmust045" target="_blank">ç ç©¶ç¼å±è</a><ul>
+                <li><a href="http://webc2.must.edu.tw/jtmust035" target="_blank">ç ç©¶èæè¡æ¨åä¸­å¿</a></li>
+                <li><a href="http://webc1.must.edu.tw/jtmust054" target="_blank">æ ¡åä¼åçµ</a></li>
+                <li><a href="http://webc1.must.edu.tw/jtmust046 " target="_blank">ç¢å­¸åæè¡ç§»è½ä¸­å¿</a></li>
+                <li><a href="http://webc1.must.edu.tw/jtmust047" target="_blank">åµæ°è²æä¸­å¿</a></li>
+              </ul>
+            </li>
+            
+            
+             <li><a  href="http://www.lib.must.edu.tw/" target="_blank">åæ¸é¤¨</a>
+             
+                <!-- <li><a class="drop" href="http://www.lib.must.edu.tw/" target="_blank">åæ¸é¤¨</a><ul>
+                <li><a href="http://admin.must.edu.tw/index.aspx?UnitID=20602" target="_blank">æ¡è¨ªç·¨ç®çµ</a></li>
+                <li><a href="http://admin.must.edu.tw/index.aspx?UnitID=20603" target="_blank">è®èæåçµ</a></li>
+                <li><a href="http://admin.must.edu.tw/index.aspx?UnitID=20604" target="_blank">ç³»çµ±è³è¨çµ</a></li> </ul> -->
+            </li>
+            
+              <li><a href="http://webc2.must.edu.tw/jtmust001/" target="_blank">è³è¨è</a></li>
+             <!-- 
+                <li><a class="drop" href="http://admin.must.edu.tw/index.aspx?UnitID=20701" target="_blank">è³è¨è</a><ul>
+                <li><a href="http://admin.must.edu.tw/index.aspx?UnitID=20703" target="_blank">æ ¡åè»é«çµ</a></li>
+                <li><a href="http://admin.must.edu.tw/index.aspx?UnitID=20704" target="_blank">ç¶²è·¯æåçµ</a></li>
+                <li><a href="http://admin.must.edu.tw/index.aspx?UnitID=20705" target="_blank">æå­¸æ¯æ´çµ</a></li> </ul>
+            </li> -->
+            
+            <li><a href="http://webc1.must.edu.tw/jtmust059" target="_blank">æè¨å®¤</a></li>
+
+            <li><a href="http://webc1.must.edu.tw/mustj007" target="_blank">äººäºå®¤</a></li>
+            
+             <li><a class="drop" href="http://webc2.must.edu.tw/jtmust040/" target="_blank">é²ä¿®æ¨å»£é¨</a><ul>
+                <li><a href="http://webc2.must.edu.tw/jtmust034" target="_blank">é²ä¿®æ¨å»£é¨è¨»åçµ</a></li>
+                <li><a href="http://webc2.must.edu.tw/jtmust039" target="_blank">é²ä¿®æ¨å»£é¨èª²åçµ</a></li>
+                <li><a href="http://webc2.must.edu.tw/jtmust036" target="_blank">é²ä¿®æ¨å»£é¨å­¸çäºåçµ</a></li>
+                <li><a href="http://webc2.must.edu.tw/jtmust023" target="_blank">é²ä¿®æ¨å»£é¨ç¸½åçµ</a></li>
+                <li><a href="http://eec.must.edu.tw" target="_blank">æ¨å»£æè²ä¸­å¿</a></li>
+              </ul>
+            </li>
+            
+            <li><a  href="http://webc2.must.edu.tw/jtmust038" target="_blank">é²ä¿®å­¸é¢æ¨å°ç§é²ä¿®å­¸æ ¡</a>
+
+         <!--    <li><a class="drop" href="http://admin.must.edu.tw/index.aspx?UnitID=21301" target="_blank">é²ä¿®å­¸é¢æ¨å°ç§é²ä¿®å­¸æ ¡</a><ul>
+                <li><a href="http://webc2.must.edu.tw/jtmust038" target="_blank">é²ä¿®å­¸é¢æ¨å°ç§é²ä¿®å­¸æ ¡æåçµ</a></li>
+                <li><a href="http://webc2.must.edu.tw/jtmust036" target="_blank">é²ä¿®å­¸é¢æ¨å°ç§é²ä¿®å­¸æ ¡äºåçµ</a></li>
+                <li><a href="http://webc2.must.edu.tw/jtmust023" target="_blank">é²ä¿®å­¸é¢æ¨å°ç§é²ä¿®å­¸æ ¡ç¸½åçµ</a></li>                
+              </ul>-->
+            </li>
+            
+            <li><a href="https://www.must.edu.tw/chinese/11_subsite_science/index.aspx?UnitID=20801" target="_blank">æ³è¦åæä»¶ç®¡å¶ä¸­å¿</a></li>
+			
+            <li><a class="drop" href="http://webc1.must.edu.tw/jtmust068" target="_blank">è»è¨å®¤</a>
+			<ul>
+			<li><a href="http://webc1.must.edu.tw/jtmust061" target="_blank">æ ¡å®ä¸­å¿</a></li>
+            </ul></li>
+			
+            <li><a href="http://webc1.must.edu.tw/jtmust051/" target="_blank">ç°å¢å®å¨è¡çä¸­å¿</a>
+            </li>
+            
+                <li><a class="drop" href="#" target="_blank">å¶ä»å®ä½</a><ul>
+                <li><a href="http://webs.must.edu.tw/ocmust004/" target="_blank">åäººè³æä¿è­·å°å</a></li>
+                <li><a href="http://webs.must.edu.tw/ocmust004/" target="_blank">æºè²¡æ¬å°å</a></li>
+                <li><a href="https://www.must.edu.tw/chinese/10_subsite_admin/index.aspx?UnitID=Z0032" target="_blank">ç¢å­¸ç ç¼ç¶²ç«</a></li>
+                <li><a href="https://www.must.edu.tw/chinese/10_subsite_admin/index.aspx?UnitID=Z0001" target="_blank">æ§å¥å¹³ç­æè²è³è¨ç¶²</a></li>
+                
+                <li><a href="https://www.must.edu.tw/chinese/10_subsite_admin/index.aspx?UnitID=Z0010" target="_blank">ææ°å­¸å ±</a></li>
+                <li><a href="https://www.must.edu.tw/chinese/10_subsite_admin/index.aspx?UnitID=Z0024" target="_blank">æ°ç«¹åç­ç¥è¯çè¨ç«ç¶²ç«</a></li>
+                <li><a href="https://www.must.edu.tw/chinese/11_subsite_science/index.aspx?UnitID=Z0002" target="_blank">é»å­ç³»ç³»åæ</a></li>
+                <li><a href="http://webs.must.edu.tw/ocmust002" target="_blank">æ°ç«¹ç¸£ååå±å®¶æè²æåä¸­å¿(åç¤¾åä¿æ¯ç³»çµ±)</a></li>
+              </ul>
+            </li>            
+          </ul>
+        </li>
+        
+        <li><a class="drop" href="http://www.must.edu.tw/about/admissions.html">æç</a>
+        <ul>
+			<li><a class="drop"  target="_blank">ç ç©¶ææç</a><ul>
+                		<li><a href="http://webs.must.edu.tw/ocmust113/" target="_blank">ç¢©å£«ç­çè©¦å¥å­¸</a></li>
+				<li><a href="http://webs.must.edu.tw/ocmust114/" target="_blank">ç¢©å£«ç­æ¨ç¢©å£«å¨è·å°ç­æç</a></li></ul></li>            
+            		<li><a class="drop" target="_blank">æ¥éé¨æç</a><ul>
+               			<li><a href="http://webs.must.edu.tw/ocmust108/" target="_blank">é«ä¸­ç³è«å¥å­¸</a></li>
+				<li><a href="http://webs.must.edu.tw/ocmust109/" target="_blank">éåç¸¾åªå®ç¨æç</a></li>
+				<li><a href="http://webs.must.edu.tw/ocmust110/" target="_blank">ç¹æ®é¸æ</a></li>
+				<li><a href="http://webs.must.edu.tw/ocmust111/" target="_blank">æåªçå¯©å¥å­¸</a></li>
+				<li><a href="http://webs.must.edu.tw/ocmust105/" target="_blank">çé¸å¥å­¸</a></li>
+				<li><a href="http://webs.must.edu.tw/ocmust106/" target="_blank">è¯åç»è¨åç¼</a></li>
+				<li><a href="http://webs.must.edu.tw/ocmust112/" target="_blank">èº«å¿éç¤å­¸ççè©¦å¥å­¸</a></li></ul></li>
+            		<li><a href="http://webs.must.edu.tw/ocmust101/" target="_blank">é²ä¿®é¨æç</a></li>
+			<li><a href="http://webs.must.edu.tw/ocmust102/" target="_blank">åç­äºè¼ªæçå°å/ç¢å­¸ææè¨ç«</a></li>
+            		<li><a href="http://fg.must.edu.tw/" target="_blank">å¤åå­¸çæç</a></li>
+			<li><a href="http://webs.must.edu.tw/ocmust104/" target="_blank">è½å­¸çæç</a></li>	        
+        </ul>
+		</li>        
+        
+        <li><a class="drop" href="http://www.must.edu.tw/about/servies.html" target="_blank">ç·ä¸æå</a>
+         <ul>
+            <li><a href="http://www.must.edu.tw/about/qa.html" target="_blank">å¸¸è¦åç­</a></li>
+            <li><a class="drop" href="#">æåç³»çµ±</a>
+             <ul>
+                <li><a href="http://sss.must.edu.tw/std_service.html" target="_blank">å­¸çå°å</a></li>
+                <li><a href="http://sss.must.edu.tw/teach_service.html" target="_blank">æè·å¡å°å</a></li>
+               <!-- <li><a href="http://sss.must.edu.tw/chief_service.html" target="_blank">è¡æ¿ä¸»ç®¡å°å</a></li>
+                <li><a href="http://sss.must.edu.tw/stuff_service.html" target="_blank">è¡æ¿äººå¡å°å</a></li> -->
+                </ul></li>
+                
+             <li><a class="drop" href="http://www.must.edu.tw/about/download.html">æªæ¡ä¸è¼</a>
+             <ul>
+                <li><a href="http://ftp.must.edu.tw/ftp/free/form/index.htm" target="_blank">å¸¸ç¨è¡¨æ ¼(éæ ¡å§é£ç·)</a></li>
+                <li><a href="http://www.must.edu.tw/about/download.html" target="_blank">æ ¡å¾½/å°å/ç³»çµ±çµç¹å</a></li>
+                <li><a href="http://www.must.edu.tw/chinese/MUST-ISMS-D-022.PDF" target="_blank">è³è¨æåç³è«å®(PDFæ ¼å¼)</a></li>
+		</ul></li>
+              
+            <li><a href="mailto://vanjj@must.edu.tw" target="_blank">ç¶²ç«åé¡åæ </a></li>
+	    <li><a href="mailto://csc@must.edu.tw;president@must.edu.tw;secretariat.must@must.edu.tw;chen083487@must.edu.tw ">æ ¡é·ä¿¡ç®±</a></li>
+            <li><a href="mailto://csc@must.edu.tw">è£äºé·ä¿¡ç®±</a></li>  
+            <li><a href="http://www.must.edu.tw/about/calendar.html" target="_blank">æ ¡åè¡äºæ</a></li>    
+              </ul>  </li>
+	  
+            <li><a  href="http://webs.must.edu.tw/jtmust060" target="_blank">å¼±å¢å©å­¸å¸å</a></li>
+ 
+      </ul>
+      <!-- ################################################################################################ --> 
+    </nav>
+  </div>
+</div>
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ -->
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+<!-- ################################################################################################ -->
+<div class="wrapper row3">
+  <div class="rounded">
+  <a href="#_center" accesskey="C" title="ä¸»è¦å§å®¹åå¡">:::ä¸»è¦å§å®¹</a>
+    <main class="container clear"> 
+	
+      <!-- main body --> 
+      <!-- ################################################################################################ -->
+      <div class="group btmspace-30" > 
+      <a href="https://www.must.edu.tw/about/admissions.html"><img src="about/images/1080214.jpg"> </a>
+      </div>
+      <!-- / main body -->
+      <div class="clear"></div>
+    </main>
+  </div>
+</div>
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ -->
+<div class="wrapper row4">
+  <div class="rounded">
+    <footer id="footer" class="clear"> 
+      <!-- ################################################################################################ -->
+      <div class="one_third first">
+        <figure class="center">
+        <iframe title="MUST Map-æ¬æ ¡ä½æ¼æ°ç«¹ç¸£æ°è±éæ°èè·¯ä¸èãä½æ¼ç«¹åå¾æ¹å£æ¹å1èçéå·¦å´èåº·æ¨è·¯äº¤åè·¯å£ã" name='map' src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3619.999953283614!2d120.98902801500292!3d24.863851184052347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34683154f00767ff%3A0xc036e80a53993101!2zMzA05paw56u557ij5paw6LGQ6YSJ5paw6IiI6LevMeiZnw!5e0!3m2!1szh-TW!2stw!4v1444721457247" width="300" height="225" frameborder="0" style="border:0" allowfullscreen></iframe>
+          
+        </figure>
+      </div>
+      <div class="one_third">
+        <address>
+         ææ°ç§æå¤§å­¸<a href="http://webs.must.edu.tw/pagecount/page_list.php?FileName=must_school" target="_blank"><img src="icon.png"></a><br>
+         Minghsin University of Science and Technology <br>
+         å°åï¼30401æ°ç«¹ç¸£æ°è±éæ°èè·¯1è<br>
+         Address<br>
+         No.1, Xinxing Rd., Xinfeng Hsinchu 30401, Taiwan(R.O.C) <br>
+        <br>
+        <i class="fa fa-phone pright-10"></i> é»è©±/å³çï¼(03)5593142 / <br /> (03)5595142 <br />
+        <i class="fa fa-phone pright-10"></i> TEL/FAXï¼ï¼+886-3-5593142 / +886-3-5595142 <br />
+        <i class="fa fa-envelope-o pright-10"></i> <a href="http://www.must.edu.tw/about/contact.html" title="åå¾èæè¯çµ¡é£çµ">Contact Us</a>
+        </address>
+      </div>
+      <div class="one_third">
+        <p class="nospace btmspace-10">What's News!Watch This!</p>
+		<div class="imgl borderedbox">
+		<img src="//qr-official.line.me/L/jsoAW0_CS6.png" style="height:120px; width:120px;">
+		<a href="https://line.me/R/ti/p/%40ywx9970x"><img style="height:40px; width:100px;" border="0" alt="å å¥å¥½å" src="https://scdn.line-apps.com/n/line_add_friends/btn/zh-Hant.png"></a>
+		</div>
+        <ul class="faico clear">
+          <li><a class="faicon-facebook" href="https://www.facebook.com/mustminghsin" title="ææ°èæ¸ç²çµ²é é¢"><i class="fa fa-facebook"></i></a></li>
+          <!--<li><a class="faicon-rss" href="http://www.must.edu.tw/rss.aspx"><i class="fa fa-rss"></i></a></li>-->          
+		  <li></li>		  
+        </ul>        
+      </div>
+	  <div><a href="http://www.handicap-free.nat.gov.tw/Applications/Detail?category=20161027164651" title="ç¡éç¤ç¶²ç«"><img src="images/demo/A.jpg" border="0" width="88" height="31" alt="ééA+åªåç­ç´ç¡éç¤ç¶²é æª¢æ¸¬" /></a> </div>
+	    
+	  <!-- ################################################################################################ --> 
+		
+	</footer>
+  </div>
+</div>
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ -->
+<div class="wrapper row5">
+  <a href="#_bottom" accesskey="B" title="ç¶²é æä¸æ¹">:::ä¸æ¹</a>  
+  <div id="copyright" class="clear"> 
+
+    <!-- ################################################################################################ -->
+    <p class="fl_left">Copyright &copy; 2015 - All Rights Reserved - <a href="#">Minghsin University of Science and Technology</a></p>
+    <p class="fl_right">Template by <a target="_blank" href="http://www.os-templates.com/" title="Free Website Templates">OS Templates</a></p>
+    
+    <!-- ################################################################################################ --> 
+  </div>
+  
+</div>
+<!-- JAVASCRIPTS --> 
+<script src="layout/scripts/jquery.min.js"></script> 
+<script src="layout/scripts/jquery.fitvids.min.js"></script> 
+<script src="layout/scripts/jquery.mobilemenu.js"></script> 
+<script src="layout/scripts/tabslet/jquery.tabslet.min.js"></script>
+<script>
+	function myFun1(){
+		var x=document.getElementById("myFun1");
+		if (x.style.display === "none"){
+			x.style.display = "block";
+		}else{
+			x.style.display = "none";
+		}
+	}
+	function myFun2(){
+		var x=document.getElementById("myFun2");
+		if (x.style.display === "none"){
+			x.style.display = "block";
+		}else{
+			x.style.display = "none";
+		}
+	}
+	function myFun3(){
+		var x=document.getElementById("myFun3");
+		if (x.style.display === "none"){
+			x.style.display = "block";
+		}else{
+			x.style.display = "none";
+		}
+	}
+	function myFun4(){
+		var x=document.getElementById("myFun4");
+		if (x.style.display === "none"){
+			x.style.display = "block";
+		}else{
+			x.style.display = "none";
+		}
+	}
+</script>
+</body>
+</html>
+In [ ]:

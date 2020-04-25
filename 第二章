@@ -1,0 +1,179 @@
+In [1]:
+#註解的意思
+a=3
+b=5
+print(a+b)
+8
+In [4]:
+'''
+這是第一行註解
+這是第二行註解
+宣告a=3
+宣告b=5
+把a+b用出來=8
+'''
+a=3 
+b=5
+print(a+b)
+8
+'''
+宣告x=1
+宣告y=10
+把兩個相加
+把兩個相減
+把兩個相乘
+得出答案
+
+'''
+In [6]:
+x=1
+y=10
+x=x+y
+y=x-y
+x=x-y
+print(x)
+print(y)
+10
+1
+In [7]:
+x=1
+y=10
+x, y = y, x
+print(x)
+print(y)
+10
+1
+平行設定
+In [1]:
+x,y,z=3,4,5
+print(x)
+print(y)
+print(z)
+3
+4
+5
+In [2]:
+x,y,z=3,4,5
+x += 1
+y *= 2
+z **= 3
+print(x,y,z)
+4 8 125
+變數的應用
+Q: 邊長為3,4,5的三角形，其面積大小為何?
+A:用程式算出來 第一行的意思是讓math變得可以使用(數學算式
+In [4]:
+import math
+d=math.sqrt(((3+4+5)/2)*(((3+4+5)/2)-3)*(((3+4+5)/2)-4)*(((3+4+5)/2)-5))
+print(a)
+6.0
+In [5]:
+import math
+a,b,c=3,4,5
+s=(a+b+c)/2
+d=math.sqrt(s*(s-a)*(s-b)*(s-c))
+print(d)
+6.0
+python動態類型變數，使用前不用宣告資料型態
+比其他的語言還方便許多
+In [8]:
+x=254
+print(type(x))
+id(x)
+<class 'int'>
+Out[8]:
+140719344964336
+In [9]:
+x='write'
+print(type(x))
+id(x)
+<class 'str'>
+Out[9]:
+2031715184856
+數值資料的計算
+
+In [10]:
+#半徑為4.5，高度為4.5的圓錐體面積為何?
+import math
+print((4.5*4.5*math.pi*4.5)/3)
+95.42587685278995
+In [11]:
+x=16
+y=3
+print(x/y)
+print(x//y) #求商
+print(x%y)  #求餘數
+5.333333333333333
+5
+1
+In [14]:
+#關係運算
+x=10
+print(20==20)
+y=20
+print(x==y)
+x=y
+print(x)
+True
+False
+20
+In [17]:
+#級聯比較
+a,b,c=10,20,30
+print(a<=b<=c)
+True
+In [18]:
+x=3.141592627
+print(x-3.14) #比正確之值略小
+0.0015926269999999576
+In [21]:
+#邏輯運算 以閏年為例
+y=2010
+print(y%4==0 and y%100!=0 or y%400==0)
+y=2012
+print(y%4==0 and y%100!=0 or y%400==0)
+y=2000
+print(y%4==0 and y%100!=0 or y%400==0)
+False
+True
+True
+In [37]:
+#型態轉換
+x=12
+y=float(x)+0.5
+print(y)
+print(int('123'))
+print(float('123'))
+print(int(123.333))
+x=10*3.25 #32.5
+y=200*200 #40000
+s='The value of x is ' + str(x) + ' and y is ' + str(y)
+s1='The value of x is ' + repr(x) + ' and y is ' + repr(y)
+print(s)
+print(s1)
+12.5
+123
+123.0
+123
+The value of x is 32.5 and y is 40000
+The value of x is 32.5 and y is 40000
+In [41]:
+#非內置模組
+import math
+print(math.pi)
+print(math.pow(2,3))
+print(8.3*10.58*math.sin(37.0/180*math.pi)/2)
+print(math.sqrt(25))
+3.141592653589793
+8.0
+26.423892221536985
+5.0
+In [50]:
+#算圓面積
+import math
+r=input("請輸入半徑:")
+area=float(r) * float(r) * math.pi
+print("圓面積為:" , area)
+請輸入半徑:10
+圓面積為: 314.1592653589793
+In [ ]:
